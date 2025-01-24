@@ -1,0 +1,10 @@
+# Ignore the model file
+model.h5
+
+# Ignore all CSV files
+performance_summary.csv
+
+# Ignore tuning results file
+tuning_results.txt
+hyperparameter.txt
+
