@@ -111,8 +111,8 @@ python visualize.py test_data.zip model.h5 company_names.txt
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/your-username/FinSense.git
-cd FinSense
+git clone https://github.com/Adi30TyaDTU/NeuralTrader.git
+cd NeuralTrader
 pip install -r requirements.txt
 ```
 
